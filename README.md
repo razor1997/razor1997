@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @razor1997
+- 👋 Hi, I’m Konrad
 - 👀 I’m interested in .NET, ASP.NET, angular, c++
 - 🌱 I’m currently learning .NET, angular and c++
 - 💞️ I’m looking to collaborate on .NET
